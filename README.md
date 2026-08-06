@@ -1,8 +1,7 @@
 <div align="center">
 
 ```text
-                 esyottil@github
-──────────────────────────────────────
+esyottil@github
 
 OS         :: Artix Linux
 Dual Boot  :: Windows 10 Pro
