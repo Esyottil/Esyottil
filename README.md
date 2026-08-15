@@ -1,18 +1,5 @@
 <div align="center">
 
-```text
-esyottil@github
-OS         :: Artix Linux
-Dual Boot  :: Windows 10 Pro
-Kernel     :: Esyottil/Esyottil
-Shell      :: zsh / PowerShell
-WM         :: i3
-Compositor :: Picom
-Terminal   :: Alacritty
-
-Status     :: Always coding...
-```
-
 # 👋 Hi, I'm Esyottil
 
 *Low-level developer • Linux enthusiast • Systems programming*
